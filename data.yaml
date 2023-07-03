@@ -1,0 +1,6 @@
+train: /home/airi/Mylove/yolo_face_detection/yolo_data/images/train
+val: /home/airi/Mylove/yolo_face_detection/yolo_data/images/val
+test: /home/airi/Mylove/yolo_face_detection/yolo_data/images/test
+
+nc: 1
+names: ['face']
